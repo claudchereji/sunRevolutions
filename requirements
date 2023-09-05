@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "Installing necessary libraries for macOS/Linux..."
+
+# Ensure pip is installed
+if command -v pip3 &>/dev/null; then
+    pip3 install tk
+else
+    echo "pip3 is not installed. Please install pip3 and try again."
+    exit 1
+fi
+
+echo "Installation complete!"
