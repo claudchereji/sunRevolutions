@@ -9,7 +9,7 @@ For Windows:
 	◦	open powershell and type ``` pip install tkinter```
 
 For macOS/Linux:
-	◦	Setup Script for macOS/Linux
+	◦	(Setup Script for macOS/Linux)[https://github.com/claudchereji/sunRevolutions/blob/9b64b1c779cf4862470171546504e530429e4d83/requirements]
 	◦	This script checks if pip3 is available and then installs the tk library. On macOS and Linux, tkinter is a part of the standard library, but the tk library might need to be installed separately.
 
 To use the scripts:
